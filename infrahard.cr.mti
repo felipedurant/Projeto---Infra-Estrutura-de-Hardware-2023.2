@@ -1,0 +1,233 @@
+{C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/Registrador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\Registrador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Registrador
+-- Compiling architecture behavioral_arch of Registrador
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ShiftSrc.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ShiftSrc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_ShiftSrc
+
+Top level modules:
+	Mux_ShiftSrc
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Iord.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Iord.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_Iord
+
+Top level modules:
+	Mux_Iord
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ShiftLeft16.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ShiftLeft16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft16
+
+Top level modules:
+	ShiftLeft16
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/CPU.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/CPU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Concat.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Concat.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Concat
+
+Top level modules:
+	Concat
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ShiftAmt.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ShiftAmt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_ShiftAmt
+
+Top level modules:
+	Mux_ShiftAmt
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SignExtend1.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SignExtend1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtend1
+
+Top level modules:
+	SignExtend1
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Mult.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mult
+
+Top level modules:
+	Mult
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Div.v} {2 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Div.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Div
+** Warning: C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Div.v(31): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Div.v(41): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	Div
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Lo.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Lo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_Lo
+
+Top level modules:
+	Mux_Lo
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluSrcA.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluSrcA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_AluSrcA
+
+Top level modules:
+	Mux_AluSrcA
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/Instr_Reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\Instr_Reg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Instr_Reg
+-- Compiling architecture behavioral_arch of Instr_Reg
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_SrcRead.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_SrcRead.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_SrcRead
+
+Top level modules:
+	Mux_SrcRead
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_PcSource.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_PcSource.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_PcSource
+
+Top level modules:
+	Mux_PcSource
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluSrcB.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluSrcB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_AluSrcB
+
+Top level modules:
+	Mux_AluSrcB
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SS.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SS
+
+Top level modules:
+	SS
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ExcpCtrl.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ExcpCtrl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_ExcpCtrl
+
+Top level modules:
+	Mux_ExcpCtrl
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/ula32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\ula32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Ula32
+-- Compiling architecture behavioral of Ula32
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Ls.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/Ls.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LS
+
+Top level modules:
+	LS
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SignExtend16.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/SignExtend16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtend16
+
+Top level modules:
+	SignExtend16
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/Banco_reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\Banco_reg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Banco_reg
+-- Compiling architecture behavioral_arch of Banco_reg
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/RegDesloc.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\RegDesloc.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegDesloc
+-- Compiling architecture behavioral_arch of RegDesloc
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/Control.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/provided_modules/Memoria.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Felipe Durant\Documents\VS\InfraHardware\Projeto Fix\provided_modules\Memoria.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling package ram_constants
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package LPM_COMPONENTS
+-- Loading package ram_constants
+-- Compiling entity Memoria
+-- Compiling architecture behavioral_arch of Memoria
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Hi.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_Hi.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_Hi
+
+Top level modules:
+	Mux_Hi
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ExcpControl.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_ExcpControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_ExcpControl
+
+Top level modules:
+	Mux_ExcpControl
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ShiftLeft2.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ShiftLeft2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ExtendShiftLeft2.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/ExtendShiftLeft2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ExtendShiftLeft2
+
+Top level modules:
+	ExtendShiftLeft2
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_SrcData.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_SrcData.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_SrcData
+
+Top level modules:
+	Mux_SrcData
+
+} {} {}} {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluOut.v} {1 {vlog -work work -stats=none {C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/low_level/mux/Mux_AluOut.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_AluOut
+
+Top level modules:
+	Mux_AluOut
+
+} {} {}}

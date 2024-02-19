@@ -1,0 +1,245 @@
+# Compile of Control.v was successful.
+# Compile of CPU.v was successful.
+# Compile of Banco_reg.vhd was successful.
+# Compile of Instr_Reg.vhd was successful.
+# Compile of Memoria.vhd was successful.
+# Compile of RegDesloc.vhd was successful.
+# Compile of Registrador.vhd was successful.
+# Compile of ula32.vhd was successful.
+# Compile of Concat.v was successful.
+# Compile of Div.v was successful with warnings.
+# Compile of ExtendShiftLeft2.v was successful.
+# Compile of Ls.v was successful.
+# Compile of Mult.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of ShiftLeft16.v was successful.
+# Compile of SignExtend1.v was successful.
+# Compile of SignExtend16.v was successful.
+# Compile of SS.v was successful.
+# Compile of Mux_AluOut.v was successful.
+# Compile of Mux_AluSrcA.v was successful.
+# Compile of Mux_AluSrcB.v was successful.
+# Compile of Mux_ExcpControl.v was successful.
+# Compile of Mux_ExcpCtrl.v was successful.
+# Compile of Mux_Hi.v was successful.
+# Compile of Mux_Iord.v was successful.
+# Compile of Mux_Lo.v was successful.
+# Compile of Mux_PcSource.v was successful.
+# Compile of Mux_ShiftAmt.v was successful.
+# Compile of Mux_ShiftSrc.v was successful.
+# Compile of Mux_SrcData.v was successful.
+# Compile of Mux_SrcRead.v was successful.
+# Compile of Mux_SrcWrite.v was successful.
+# 32 compiles, 0 failed with no errors.
+vsim -gui work.CPU
+# vsim -gui work.CPU 
+# Start time: 09:10:06 on Feb 19,2024
+# Loading work.CPU
+# Loading work.Mux_ExcpControl
+# Loading work.Mux_Iord
+# Loading work.Mux_ExcpCtrl
+# Loading work.Mux_ShiftSrc
+# Loading work.Mux_ShiftAmt
+# Loading work.Mux_SrcRead
+# Loading work.Mux_SrcWrite
+# Loading work.Mux_SrcData
+# Loading work.Mux_AluSrcA
+# Loading work.Mux_AluSrcB
+# Loading work.Mux_PcSource
+# Loading work.Mux_Hi
+# Loading work.Mux_Lo
+# Loading work.Mux_AluOut
+# Loading work.Concat
+# Loading work.ExtendShiftLeft2
+# Loading work.ShiftLeft2
+# Loading work.ShiftLeft16
+# Loading work.SignExtend1
+# Loading work.SignExtend16
+# Loading work.LS
+# Loading work.SS
+# Loading work.Mult
+# Loading work.Div
+# Loading work.Control
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.banco_reg(behavioral_arch)
+# Loading work.instr_reg(behavioral_arch)
+# Loading lpm.lpm_components
+# Loading work.ram_constants
+# Loading work.memoria(behavioral_arch)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading lpm.lpm_common_conversion(body)
+# Loading lpm.lpm_device_families(body)
+# Loading lpm.lpm_ram_dq(lpm_syn)
+# Loading work.regdesloc(behavioral_arch)
+# Loading work.ula32(behavioral)
+# Loading work.registrador(behavioral_arch)
+# ** Fatal: (vsim-3365) Too many port connections. Expected 7, found 8.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/mux_src_write File: C:/Users/Felipe Durant/Documents/VS/InfraHardware/Projeto Fix/CPU.v Line: 200
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 09:10:07 on Feb 19,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 12
+# Compile of Control.v was successful.
+# Compile of CPU.v was successful.
+# Compile of Banco_reg.vhd was successful.
+# Compile of Instr_Reg.vhd was successful.
+# Compile of Memoria.vhd was successful.
+# Compile of RegDesloc.vhd was successful.
+# Compile of Registrador.vhd was successful.
+# Compile of ula32.vhd was successful.
+# Compile of Concat.v was successful.
+# Compile of Div.v was successful with warnings.
+# Compile of ExtendShiftLeft2.v was successful.
+# Compile of Ls.v was successful.
+# Compile of Mult.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of ShiftLeft16.v was successful.
+# Compile of SignExtend1.v was successful.
+# Compile of SignExtend16.v was successful.
+# Compile of SS.v was successful.
+# Compile of Mux_AluOut.v was successful.
+# Compile of Mux_AluSrcA.v was successful.
+# Compile of Mux_AluSrcB.v was successful.
+# Compile of Mux_ExcpControl.v was successful.
+# Compile of Mux_ExcpCtrl.v was successful.
+# Compile of Mux_Hi.v was successful.
+# Compile of Mux_Iord.v was successful.
+# Compile of Mux_Lo.v was successful.
+# Compile of Mux_PcSource.v was successful.
+# Compile of Mux_ShiftAmt.v was successful.
+# Compile of Mux_ShiftSrc.v was successful.
+# Compile of Mux_SrcData.v was successful.
+# Compile of Mux_SrcRead.v was successful.
+# Compile of Mux_SrcWrite.v was successful.
+# 32 compiles, 0 failed with no errors.
+vsim -gui work.CPU
+# vsim -gui work.CPU 
+# Start time: 09:13:47 on Feb 19,2024
+# Loading work.CPU
+# Loading work.Mux_ExcpControl
+# Loading work.Mux_Iord
+# Loading work.Mux_ExcpCtrl
+# Loading work.Mux_ShiftSrc
+# Loading work.Mux_ShiftAmt
+# Loading work.Mux_SrcRead
+# Loading work.Mux_SrcWrite
+# Loading work.Mux_SrcData
+# Loading work.Mux_AluSrcA
+# Loading work.Mux_AluSrcB
+# Loading work.Mux_PcSource
+# Loading work.Mux_Hi
+# Loading work.Mux_Lo
+# Loading work.Mux_AluOut
+# Loading work.Concat
+# Loading work.ExtendShiftLeft2
+# Loading work.ShiftLeft2
+# Loading work.ShiftLeft16
+# Loading work.SignExtend1
+# Loading work.SignExtend16
+# Loading work.LS
+# Loading work.SS
+# Loading work.Mult
+# Loading work.Div
+# Loading work.Control
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.banco_reg(behavioral_arch)
+# Loading work.instr_reg(behavioral_arch)
+# Loading lpm.lpm_components
+# Loading work.ram_constants
+# Loading work.memoria(behavioral_arch)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading lpm.lpm_common_conversion(body)
+# Loading lpm.lpm_device_families(body)
+# Loading lpm.lpm_ram_dq(lpm_syn)
+# Loading work.regdesloc(behavioral_arch)
+# Loading work.ula32(behavioral)
+# Loading work.registrador(behavioral_arch)
+add wave -position insertpoint  \
+sim:/CPU/clk
+add wave -position insertpoint  \
+sim:/CPU/reset
+add wave -position insertpoint  \
+sim:/CPU/banco_reg/Cluster(0) \
+sim:/CPU/banco_reg/Cluster(1) \
+sim:/CPU/banco_reg/Cluster(2) \
+sim:/CPU/banco_reg/Cluster(3) \
+sim:/CPU/banco_reg/Cluster(4)
+noforce sim:/CPU/clk
+force -freeze sim:/CPU/clk 1 0, 0 {50 ps} -r 100
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Three
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Three
+# ** Error: Unknown intended_device_family UNUSED
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Three
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Two
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Two
+# ** Error: Unknown intended_device_family UNUSED
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_Two
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_One
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_One
+# ** Error: Unknown intended_device_family UNUSED
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM_plus_One
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM
+# ** Error: Unknown intended_device_family UNUSED
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria/MEM
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/memoria
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/banco_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /CPU/banco_reg
+# ** Error: (vsim-86) Argument value -2147483645 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+# ** Error: (vsim-86) Argument value -2147483646 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+# ** Error: (vsim-86) Argument value -2147483647 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 0 ps  Iteration: 1  Instance: /CPU/memoria
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
